@@ -15,7 +15,7 @@ class Solution:
             current.next=prev
             prev=current
             current=next
-            next=current.next
+            next=next.next
         current.next=prev
         return current
 # class Solution:
