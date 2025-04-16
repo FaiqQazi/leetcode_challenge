@@ -24,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1250-longest-common-subsequence) |
 ## Trie
@@ -38,10 +39,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
 |  |
 | ------- |
@@ -66,4 +69,16 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0503-next-greater-element-ii) |
+## Graph
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
