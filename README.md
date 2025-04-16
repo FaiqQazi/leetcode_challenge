@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
+| [1250-longest-common-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
+| [1250-longest-common-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1250-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
