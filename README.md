@@ -7,6 +7,7 @@
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0503-next-greater-element-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
 ## Hash Table
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
