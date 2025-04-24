@@ -1,28 +1,45 @@
 class Solution:
+
     def longestPalindrome(self, s: str) -> str:
-        if not s:
-            return ""
-            
-        # Initialize result to handle single character case
-        result = s[0]
-        
-        for i in range(len(s)):
-            # Odd length palindromes (centered at i)
-            left, right = i, i
+        if(len(s)==1):
+            return s
+        left=0
+        right=len(s)-1
+
+        arr=[]
+
+        for i in range (0, len(s)-1):
+            m=True
+            curr_str=s[i]
+            left=i-1
+            right=i+1
             while left >= 0 and right < len(s) and s[left] == s[right]:
-                # If current palindrome is longer than our stored result
-                if right - left + 1 > len(result):
-                    result = s[left:right+1]
+
+                curr_str=s[right]+curr_str+s[left]
+                left=left-1
+                right=right+1
+            arr.append(curr_str)
+            left = i
+            right = i + 1
+            curr_str = ""
+            
+            while left >= 0 and right < len(s) and s[left] == s[right]:
+                curr_str = s[left] + curr_str + s[right]
                 left -= 1
                 right += 1
             
-            # Even length palindromes (centered between i and i+1)
-            left, right = i, i + 1
-            while left >= 0 and right < len(s) and s[left] == s[right]:
-                # If current palindrome is longer than our stored result
-                if right - left + 1 > len(result):
-                    result = s[left:right+1]
-                left -= 1
-                right += 1
+            if curr_str:  # Only add if we found an even-length palindrome
+                arr.append(curr_str)
+
+
+        sorted_arr=sorted(arr,key=len)
+        print("the sorted arr is ")
+        print(sorted_arr)
+        print("the final element is ")
+        return  max(arr, key=len) 
+
                 
-        return result
+
+
+
+        
