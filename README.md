@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1250-longest-common-subsequence) |
@@ -28,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1250-longest-common-subsequence) |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0624-maximum-distance-in-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
