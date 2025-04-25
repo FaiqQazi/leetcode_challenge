@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0064-minimum-path-sum) |
+| [0198-house-robber](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0503-next-greater-element-ii) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0064-minimum-path-sum) |
+| [0198-house-robber](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0198-house-robber) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1250-longest-common-subsequence) |
