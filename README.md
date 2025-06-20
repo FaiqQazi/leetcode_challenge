@@ -14,6 +14,7 @@
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
+| [0864-image-overlap](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0864-image-overlap) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
+| [0864-image-overlap](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0864-image-overlap) |
 ## Design
 |  |
 | ------- |
