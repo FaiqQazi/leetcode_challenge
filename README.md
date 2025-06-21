@@ -122,4 +122,12 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0696-count-binary-substrings](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0696-count-binary-substrings) |
+## Math
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0223-rectangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
