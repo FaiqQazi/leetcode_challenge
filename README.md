@@ -31,6 +31,7 @@
 | [0696-count-binary-substrings](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0696-count-binary-substrings) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1250-longest-common-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0223-rectangle-area) |
+## Backtracking
+|  |
+| ------- |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0872-split-array-into-fibonacci-sequence) |
 <!---LeetCode Topics End-->
