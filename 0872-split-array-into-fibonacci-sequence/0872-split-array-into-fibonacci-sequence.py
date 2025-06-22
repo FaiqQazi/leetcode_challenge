@@ -7,7 +7,7 @@ class Solution:
         print(f"Input num = {num}, Length = {n}, Max length guess = {max_len}\n")
 
         for length1 in range(1, max_len + 1):  # Allow small to large lengths
-            for length2 in range(1, max_len + 1):  # ✅ Fix: allow second number to be longer
+            for length2 in range(1, max_len + 1):  
                 print(f"Trying first length = {length1}, second length = {length2}")
 
                 if length1 + length2 >= n:
@@ -50,10 +50,10 @@ class Solution:
                     print(f"    Match! Sequence so far: {fib}, next index = {idx}")
 
                 if idx == n and len(fib) >= 3:
-                    print(f"✔️ Valid Fibonacci sequence found: {fib}\n")
+                    print(f"Valid Fibonacci sequence found: {fib}\n")
                     return fib
                 else:
-                    print("❌ Did not use entire string or too short sequence, trying next\n")
+                    print("Did not use entire string or too short sequence, trying next\n")
 
         print("No valid Fibonacci sequence found.")
         return []
