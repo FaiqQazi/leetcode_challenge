@@ -20,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0696-count-binary-substrings) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
@@ -116,6 +118,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 ## Greedy
 |  |
@@ -138,4 +141,8 @@
 |  |
 | ------- |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0872-split-array-into-fibonacci-sequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
