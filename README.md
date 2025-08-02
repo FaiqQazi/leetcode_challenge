@@ -13,6 +13,7 @@
 | [0503-next-greater-element-ii](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0503-next-greater-element-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0690-employee-importance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0690-employee-importance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
@@ -65,11 +67,13 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
+| [0690-employee-importance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0690-employee-importance) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
+| [0690-employee-importance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0690-employee-importance) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
@@ -145,4 +149,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
