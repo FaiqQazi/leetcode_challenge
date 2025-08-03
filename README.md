@@ -19,6 +19,7 @@
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
 | [0864-image-overlap](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0864-image-overlap) |
+| [1222-remove-covered-intervals](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1222-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
+| [1222-remove-covered-intervals](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1222-remove-covered-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
