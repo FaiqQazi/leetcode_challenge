@@ -23,18 +23,13 @@ class Solution:
 
 
         intervals.sort(key=lambda x: (x[0], -x[1]))
-        print("intervals are")
-        print(intervals)
         visited=[]
         prev=intervals[0]
         for i in range(1,len(intervals)):
-            print(f"now doing for {intervals[i]}")
             if intervals[i][1]<=prev[1]:
-                print(f"{intervals[i]} is with in {prev}")
                 visited.append(intervals[i]) 
             else:
                 prev=intervals[i]         
-                print(f"prev is now {prev}")
         
         answer=[]
         for n in intervals:
