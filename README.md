@@ -7,6 +7,7 @@
 | [0064-minimum-path-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0303-range-sum-query-immutable) |
@@ -44,6 +45,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
 ## Dynamic Programming
@@ -99,6 +101,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0303-range-sum-query-immutable) |
 ## Stack
 |  |
@@ -164,6 +167,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
