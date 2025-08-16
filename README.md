@@ -11,6 +11,7 @@
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0303-range-sum-query-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0377-combination-sum-iv](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0377-combination-sum-iv) |
 | [0503-next-greater-element-ii](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0503-next-greater-element-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0624-maximum-distance-in-arrays) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
 ## Dynamic Programming
 |  |
@@ -93,6 +95,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0864-image-overlap](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0864-image-overlap) |
 ## Design
 |  |
@@ -103,6 +106,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0303-range-sum-query-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Stack
 |  |
 | ------- |
@@ -173,4 +177,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
