@@ -21,6 +21,7 @@
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
 | [0864-image-overlap](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0864-image-overlap) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1222-remove-covered-intervals](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1222-remove-covered-intervals) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0303-range-sum-query-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Shortest Path
 |  |
 | ------- |
@@ -164,6 +168,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Tree
 |  |
 | ------- |
@@ -173,10 +178,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Ordered Set
 |  |
 | ------- |
