@@ -24,6 +24,7 @@
 | [0864-image-overlap](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0864-image-overlap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1222-remove-covered-intervals](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1222-remove-covered-intervals) |
+| [1622-max-value-of-equation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1622-max-value-of-equation) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1622-max-value-of-equation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1622-max-value-of-equation) |
 ## Shortest Path
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1622-max-value-of-equation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1622-max-value-of-equation) |
 ## Tree
 |  |
 | ------- |
@@ -181,11 +184,13 @@
 | [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1622-max-value-of-equation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1622-max-value-of-equation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1622-max-value-of-equation) |
 ## Ordered Set
 |  |
 | ------- |
