@@ -20,6 +20,7 @@
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
+| [0842-card-flipping-game](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0842-card-flipping-game) |
 | [0864-image-overlap](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0864-image-overlap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1222-remove-covered-intervals](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1222-remove-covered-intervals) |
@@ -32,6 +33,7 @@
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0808-number-of-matching-subsequences) |
+| [0842-card-flipping-game](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0842-card-flipping-game) |
 ## String
 |  |
 | ------- |
