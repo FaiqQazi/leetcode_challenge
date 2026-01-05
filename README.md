@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [0064-minimum-path-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
@@ -149,11 +150,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0624-maximum-distance-in-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [0696-count-binary-substrings](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0696-count-binary-substrings) |
 ## Math
 |  |
