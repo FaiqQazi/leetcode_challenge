@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [0064-minimum-path-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0064-minimum-path-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0433-minimum-genetic-mutation) |
 | [0690-employee-importance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0690-employee-importance) |
@@ -96,6 +98,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
