@@ -60,8 +60,6 @@ class Solution:
         for i in range (len(board)):
             for j in range (len(board[0])):
                 
-                print(f"the number of ones in the neighbouring of {i}{j} is {ones[i][j]}")
-
                 if board[i][j]==1 and ones[i][j]<2:
                     board[i][j]=0
                 elif board[i][j]==1 and (ones[i][j]==2 or ones[i][j]==3):
