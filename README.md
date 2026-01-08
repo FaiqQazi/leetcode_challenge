@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0072-edit-distance) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0433-minimum-genetic-mutation) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0377-combination-sum-iv) |
