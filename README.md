@@ -35,6 +35,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0433-minimum-genetic-mutation) |
+| [0567-permutation-in-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0567-permutation-in-string) |
 | [0690-employee-importance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
@@ -48,6 +49,7 @@
 | [0072-edit-distance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0072-edit-distance) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0433-minimum-genetic-mutation) |
+| [0567-permutation-in-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0696-count-binary-substrings) |
 | [0753-open-the-lock](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0753-open-the-lock) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0011-container-with-most-water) |
+| [0567-permutation-in-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0696-count-binary-substrings) |
 ## Math
 |  |
@@ -198,6 +201,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1622-max-value-of-equation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
