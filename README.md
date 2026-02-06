@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
