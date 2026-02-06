@@ -116,6 +116,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -127,6 +128,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
