@@ -47,6 +47,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0072-edit-distance) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0433-minimum-genetic-mutation) |
@@ -179,6 +180,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0067-add-binary) |
 | [0223-rectangle-area](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0223-rectangle-area) |
 ## Geometry
 |  |
@@ -220,6 +222,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0289-game-of-life) |
 ## Divide and Conquer
 |  |
@@ -228,5 +231,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
