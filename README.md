@@ -233,4 +233,5 @@
 | ------- |
 | [0067-add-binary](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0190-reverse-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/FaiqQazi/leetcode_challenge/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
